@@ -1,10 +1,7 @@
-Hi 👋 My name is Sergej Filipovski
+Hi there 👋
 ==================================
 
-Web Developer
--------------
-
-Currently working with React aiming to become a fullstack developer
+I'm currently working with React aiming to become a fullstack developer
 
 * ✉️  You can contact me at [sergejfilipovski@gmail.com](mailto:sergejfilipovski@gmail.com)
 
